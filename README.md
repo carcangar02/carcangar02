@@ -9,7 +9,6 @@ Focused on **production web backends**, **3D/GPU-accelerated tooling**, and **mu
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **[NORNAS](https://github.com/carcangar02/NORNAS)** | `FastAPI` `React` `TypeScript` `Three.js` `XPBD` `CuPy` | Modular 3D garment pattern & cloth physics simulation studio with plugin architecture and optional CUDA acceleration. |
 | **[ibi_clausus_crm](https://github.com/carcangar02/ibi_clausus_crm)** | `Django 5` `PostgreSQL` `Docker` `ReportLab` `WeasyPrint` | Full-stack CRM for music band operations: attendance, allowances/mileage, PDF generation, and treasury balances. |
 | **[inmo_leadflow](https://github.com/carcangar02/inmo_leadflow)** | `FastAPI` `Pydantic` `SQLite` `Tailwind` | Real-estate lead capture & qualification engine with 0–100 scoring and commercial dashboard. |
 | **[atenea](https://github.com/carcangar02/atenea)** | `Python` `faster-whisper` `CUDA` `sounddevice` | Local GPU-accelerated lecture recorder, speech-to-text (`large-v3`), and structured Markdown summarizer. |
